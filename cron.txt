@@ -1,0 +1,2 @@
+* * * * * sh /usd/asf
+* 3 4 2 * sh /usd/asf
